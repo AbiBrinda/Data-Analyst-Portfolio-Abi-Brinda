@@ -19,6 +19,5 @@ SQL Project using Airline DB
 Big Basket Analysis using Python
 Shopnest Store Capstone using Power Bi
 
- # Email: abibrinda@email.com
-
-# LinkedIn: linkedin.com/in/abibrinda
+### Email: abibrinda@email.com
+### LinkedIn: linkedin.com/in/abibrinda
